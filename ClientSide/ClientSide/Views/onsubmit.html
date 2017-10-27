@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>OnSubmit</title>
+	<meta charset="utf-8" />
+    <script src="../Scripts/JavaScripts/onsubmit.js"></script>
+</head>
+<body>
+    <form name="form1" onsubmit="return dataControl()">
+        <b>Enter 5 character: </b>
+        <input type="text" name="character" size="5" />
+        <p>
+            <input type="submit" value="send" name="send" onclick="document.form1.character.value = document.form1.character.value.toUpperCase()" />
+        </p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Control</title>
+	<meta charset="utf-8" />
+    <script src="../Scripts/JavaScripts/mail.js"></script>
+</head>
+<body>
+    <h3>Email Control</h3>
+    <form name="form1">
+        <b>Email:</b>
+        <input type="text" name="email" />
+        <br />
+        <input type="button" name="button1" value="Send" onclick="emailControl()" />
+    </form>
+
+    <form method="post" action="mailto:info@yopmail.com">
+        <p>Email</p>
+        <input name="cevap" value="">
+        <input type="submit" value="Submit">
+        <input type="reset">
+        <br />
+    </form>
+</body>
+</html>

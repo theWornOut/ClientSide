@@ -1,0 +1,39 @@
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\csc.exe
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\vbc.exe
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\ClientSide.dll.config
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\ClientSide.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\ClientSide.pdb
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.dll
+C:\Users\Msi\Documents\Visual Studio 2015\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.pdb
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\csc.exe
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\vbc.exe
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\VBCSCompiler.exe
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\ClientSide.dll.config
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\ClientSide.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\ClientSide.pdb
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programlama\Projects\Github\ClientSide\ClientSide\obj\Debug\ClientSide.dll
+D:\Programlama\Projects\Github\ClientSide\ClientSide\obj\Debug\ClientSide.pdb

@@ -1,0 +1,30 @@
+﻿body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: green;
+    padding-left: 15px;
+}
+
+#test {
+    color: blue;
+    text-align: left;
+}
+
+.test {
+    color: red;
+    text-align: left;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    width: 60px;
+}

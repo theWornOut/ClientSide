@@ -1,0 +1,1 @@
+﻿document.writeln("<font color='red'><h2>Example <br/> Js</h2></font>");
